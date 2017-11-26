@@ -7,7 +7,7 @@ This is [Roger Leite](https://github.com/rogerleite)'s dot f*** files for Mac an
 First of all you need to clone the repo
 ```sh
 cd ~
-git clone https://github.com/rogerleite/Dotfiles.git
+git clone https://github.com/rafasousa/Dotfiles.git
 ```
 
 Than the the submodules
